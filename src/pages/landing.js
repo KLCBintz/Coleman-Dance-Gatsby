@@ -11,11 +11,14 @@ import pic10 from '../assets/images/pic10.jpg'
 const Landing = props => (
   <Layout>
     <Helmet>
-      <title>Landing - Forty by HTML5 UP</title>
+      <title>The Coleman School of Dance</title>
       <meta name="description" content="Landing Page" />
     </Helmet>
 
-    <BannerLanding />
+    <BannerLanding
+      header="Coleman Dance Company"
+      subheader="For The Dedicated Dancer"
+    />
 
     <div id="main">
       <section id="one">

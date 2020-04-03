@@ -39,7 +39,7 @@ class HomeIndex extends React.Component {
                 <h3>Class Schedule</h3>
                 <p>Find The Class That's Right For You</p>
               </header>
-              <Link to="/landing" className="link primary"></Link>
+              <Link to="/schedule" className="link primary"></Link>
             </article>
             <article style={{ backgroundImage: `url(${pic02})` }}>
               <header className="major">
@@ -53,7 +53,7 @@ class HomeIndex extends React.Component {
                 <h3>Faculty</h3>
                 <p>Meet The Teachers</p>
               </header>
-              <Link to="/landing" className="link primary"></Link>
+              <Link to="/faculty" className="link primary"></Link>
             </article>
             <article style={{ backgroundImage: `url(${pic04})` }}>
               <header className="major">
@@ -82,7 +82,22 @@ class HomeIndex extends React.Component {
               <header className="major">
                 <h2>Mission Statement</h2>
               </header>
-              <p>Mission Statement Here</p>
+              <p>
+                The Coleman School of Dance instills a love of dance while
+                developing artistry and character growth. Students work on their
+                technique and enhance their skills in creative expression,
+                choreograpy, improvisation, and the vocabulary of movement. We
+                ensure individualized attention through small class sizes and
+                personal coaching. The Coleman School of Dance imparts the
+                essential elements of great dance: teamwork and the individual
+                pursuit of excellence. The teachers foster self-confidence in a
+                free and caring environment. The Coleman School of Dance offers
+                classes classical ballet for kids and teens, modern dance,
+                creative movement for small children, introductory hip-hop
+                classes, choreography, stage production, and set design. The
+                teachers at Coleman School of Dance have an extensive knowledge
+                of the art of dance. Learn more by exploring the site.
+              </p>
             </div>
           </section>
         </div>
