@@ -10,8 +10,10 @@ const Banner = props => (
         <p>
           “Virtual dance helps dancers stay connected with each other, and lifts
           their spirits during these hard times. It keeps everyone moving and
-          gives us something to look forward to.” -Alison, student in Advanced
-          Ballet, Contemporary, Pointe and Junior Company Class
+          gives us something to look forward to.”
+          <br />
+          -Alison, student in Advanced Ballet, Contemporary, Pointe and Junior
+          Company Class
         </p>
         <ul className="actions">
           <li>
