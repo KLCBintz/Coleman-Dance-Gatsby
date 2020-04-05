@@ -36,6 +36,11 @@ const Menu = props => (
             Tuition and Policy
           </Link>
         </li>
+        <li>
+          <Link onClick={props.onToggleMenu} to="/tuition">
+            Summer Dance
+          </Link>
+        </li>
       </ul>
       <ul className="actions vertical">
         <li>

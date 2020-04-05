@@ -12,8 +12,8 @@ const Banner = props => (
           their spirits during these hard times. It keeps everyone moving and
           gives us something to look forward to.”
           <br />
-          -Alison, student in Advanced Ballet, Contemporary, Pointe and Junior
-          Company Class
+          -Alison, student in Advanced Ballet, Contemporary, Pointe and member
+          of the Junior Company
         </p>
         <ul className="actions">
           <li>

@@ -133,12 +133,12 @@ const Landing = props => (
                 <h4>Pointe Teacher</h4>
               </header>
               <p>
-                <b>Nicole Cruz</b> was born in the Philippines. She pursued dane
+                <b>Nicole Cruz</b> was born in the Philippines. She pursued dance
                 professionally with Ballet Philippines where she danced both
                 principal and soloist roles. Nicole has also danced with Hong
                 Kong Ballet and upon moving to the United States, danced with
                 Connecticut Ballet, Zig Zog Ballet, Ballet New York and Ballet
-                Memphis where she spent three seasons dancing roles in Romeo and
+                Memphis, where she spent three seasons dancing roles in Romeo and
                 Juliet, Cinderella, Sleeping Beauty and Coppelia. Currently,
                 Nicole teaches pilates at the Center For Movement in Scarsdale,
                 Fiore Pilates in Mamaroneck and Pilates Symmetry in Stamford,
