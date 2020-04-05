@@ -26,16 +26,21 @@ const Menu = props => (
             Faculty
           </Link>
         </li>
+        <li>
+          <Link onClick={props.onToggleMenu} to="/testimonials">
+            Testimonials
+          </Link>
+        </li>
+        <li>
+          <Link onClick={props.onToggleMenu} to="/tuition">
+            Tuition and Policy
+          </Link>
+        </li>
       </ul>
       <ul className="actions vertical">
         <li>
-          <a href="#" className="button special fit">
-            Get Started
-          </a>
-        </li>
-        <li>
-          <a href="#" className="button fit">
-            Log In
+          <a href="tel:9145003381" className="button special fit">
+            Call Now
           </a>
         </li>
       </ul>

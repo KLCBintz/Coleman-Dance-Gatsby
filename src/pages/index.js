@@ -60,7 +60,7 @@ class HomeIndex extends React.Component {
                 <h3>Tuition and Policy</h3>
                 <p>Get the Rules</p>
               </header>
-              <Link to="/landing" className="link primary"></Link>
+              <Link to="/tuition" className="link primary"></Link>
             </article>
             <article style={{ backgroundImage: `url(${pic05})` }}>
               <header className="major">
@@ -74,7 +74,7 @@ class HomeIndex extends React.Component {
                 <h3>Testimonials</h3>
                 <p>See What Our Students Say About Us</p>
               </header>
-              <Link to="/landing" className="link primary"></Link>
+              <Link to="/testimonials" className="link primary"></Link>
             </article>
           </section>
           <section id="two">

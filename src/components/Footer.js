@@ -5,11 +5,6 @@ const Footer = props => (
     <div className="inner">
       <ul className="icons">
         <li>
-          <a href="#" className="icon alt fa-twitter">
-            <span className="label">Twitter</span>
-          </a>
-        </li>
-        <li>
           <a
             href="https://www.facebook.com/ColemanSchoolOfDance/"
             className="icon alt fa-facebook"
@@ -27,9 +22,10 @@ const Footer = props => (
         </li>
       </ul>
       <ul className="copyright">
-        <li>&copy; Untitled</li>
+        <li>&copy; 2020 Coleman School of Dance. All Rights Reserved.</li>
         <li>
-          Design: <a href="https://html5up.net">HTML5 UP</a>
+          A <a href="https://swirlwebdesign.com">Swirl Creative Web Design</a>{' '}
+          Project
         </li>
       </ul>
     </div>
