@@ -3,6 +3,11 @@ div.tablehead {
   font-weight: bold;
 }
 
+#bottom {
+  margin-left: 2vw;
+  margin-right: 2vw;
+}
+
 #Schedule {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;

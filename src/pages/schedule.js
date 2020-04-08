@@ -369,23 +369,6 @@ const Landing = props => (
         <div>
           <br />
         </div>
-
-        <div id="bottom">
-          <h3>Horton</h3>
-          <p>
-            In Horton technique, dancers work on flat backs, lateral stretches,
-            release swings, leg swings, deep lunges, T position giving them
-            freedom to move from one place to another in ways the dancer didn't
-            know was possible.{' '}
-          </p>
-
-          <h3>Limon</h3>
-          <p>
-            In Limon Dance, movement is guided by breath through the body, the
-            dynamic use of weight in each body part and the fluid succession of
-            one movement into the next.
-          </p>
-        </div>
       </div>
     </div>
 
@@ -695,22 +678,22 @@ const Landing = props => (
             foster a love of movement and a healthy mind/body.
           </p>
         </div>
-        <div id="bottom">
-          <h3>Horton</h3>
-          <p>
-            In Horton technique, dancers work on flat backs, lateral stretches,
-            release swings, leg swings, deep lunges, T position giving them
-            freedom to move from one place to another in ways the dancer didn't
-            know was possible.{' '}
-          </p>
+      </div>
+      <div id="bottom">
+        <h3>Horton</h3>
+        <p>
+          In Horton technique, dancers work on flat backs, lateral stretches,
+          release swings, leg swings, deep lunges, T position giving them
+          freedom to move from one place to another in ways the dancer didn't
+          know was possible.{' '}
+        </p>
 
-          <h3>Limon</h3>
-          <p>
-            In Limon Dance, movement is guided by breath through the body, the
-            dynamic use of weight in each body part and the fluid succession of
-            one movement into the next.
-          </p>
-        </div>
+        <h3>Limon</h3>
+        <p>
+          In Limon Dance, movement is guided by breath through the body, the
+          dynamic use of weight in each body part and the fluid succession of
+          one movement into the next.
+        </p>
       </div>
     </div>
   </Layout>
