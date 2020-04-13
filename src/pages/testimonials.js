@@ -4,7 +4,7 @@ import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 import BannerLanding from '../components/BannerLanding'
 
-const Landing = props => (
+const Testimonials = props => (
   <Layout>
     <Helmet>
       <title>The Coleman School of Dance</title>
@@ -77,4 +77,4 @@ const Landing = props => (
   </Layout>
 )
 
-export default Landing
+export default Testimonials

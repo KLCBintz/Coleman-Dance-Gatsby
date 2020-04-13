@@ -12,7 +12,7 @@ import nicole from '../assets/images/nicole.jpg'
 import sophia from '../assets/images/sophia.jpg'
 import susanna from '../assets/images/susanna.jpg'
 
-const Landing = props => (
+const Faculty = props => (
   <Layout>
     <Helmet>
       <title>The Coleman School of Dance</title>
@@ -133,17 +133,17 @@ const Landing = props => (
                 <h4>Pointe Teacher</h4>
               </header>
               <p>
-                <b>Nicole Cruz</b> was born in the Philippines. She pursued dance
-                professionally with Ballet Philippines where she danced both
-                principal and soloist roles. Nicole has also danced with Hong
-                Kong Ballet and upon moving to the United States, danced with
-                Connecticut Ballet, Zig Zog Ballet, Ballet New York and Ballet
-                Memphis, where she spent three seasons dancing roles in Romeo and
-                Juliet, Cinderella, Sleeping Beauty and Coppelia. Currently,
-                Nicole teaches pilates at the Center For Movement in Scarsdale,
-                Fiore Pilates in Mamaroneck and Pilates Symmetry in Stamford,
-                CT. She also belongs to the faculty of Ballet Center in
-                Stamford.
+                <b>Nicole Cruz</b> was born in the Philippines. She pursued
+                dance professionally with Ballet Philippines where she danced
+                both principal and soloist roles. Nicole has also danced with
+                Hong Kong Ballet and upon moving to the United States, danced
+                with Connecticut Ballet, Zig Zog Ballet, Ballet New York and
+                Ballet Memphis, where she spent three seasons dancing roles in
+                Romeo and Juliet, Cinderella, Sleeping Beauty and Coppelia.
+                Currently, Nicole teaches pilates at the Center For Movement in
+                Scarsdale, Fiore Pilates in Mamaroneck and Pilates Symmetry in
+                Stamford, CT. She also belongs to the faculty of Ballet Center
+                in Stamford.
               </p>
             </div>
           </div>
@@ -204,4 +204,4 @@ const Landing = props => (
   </Layout>
 )
 
-export default Landing
+export default Faculty

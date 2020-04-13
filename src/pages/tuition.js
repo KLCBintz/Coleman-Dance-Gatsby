@@ -8,7 +8,7 @@ import pic12 from '../assets/images/pic12.jpg'
 import pic13 from '../assets/images/pic13.jpg'
 import pic14 from '../assets/images/pic14.jpg'
 
-const Landing = props => (
+const Tuition = props => (
   <Layout>
     <Helmet>
       <title>The Coleman School of Dance</title>
@@ -145,4 +145,4 @@ const Landing = props => (
   </Layout>
 )
 
-export default Landing
+export default Tuition
