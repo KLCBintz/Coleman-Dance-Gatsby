@@ -45,7 +45,7 @@ const Testimonials = props => (
             use it to tell stories regarding serious and powerful topics."
             <br />
             <br />
-            --Ariana, age 14
+            --Ariana, Student, Coleman Teen Dance Company
           </p>
           <p>
             "Being in the Coleman School of Dance is one of the things I am most
@@ -57,7 +57,7 @@ const Testimonials = props => (
             many great memories."
             <br />
             <br />
-            --Nola, age 14
+            --Nola, Student, Coleman Junior Company
           </p>
           <p>
             “The smile that I see on my daughter’s face when she dances is the
@@ -70,6 +70,58 @@ const Testimonials = props => (
             <br />
             <br />
             --Beth, Parent
+          </p>
+          <p>
+            “In this time of uncertainty, virtual dance connects us to our
+            wonderful community and provides a bit of structure to our day, but
+            most importantly allows my daughter a creative outlet to help
+            process some of her feelings and emotions.”
+            <br />
+            <br />
+            --Yadira, Parent
+          </p>
+          <p>
+            I think virtual classes are great! They are a really good
+            distraction and change of pace! I can improve technique from the
+            comfort of my home. Dance is a really good way to de-stress!
+            <br />
+            <br />
+            --Jazmin, Student, Beginning Adult Ballet
+          </p>
+          <p>
+            “The Coleman School of Dance has truly impacted not only its
+            students but the New Rochelle community as well. Here at CTDC we are
+            offered so many character -shaping opportunities that we otherwise
+            would not have been able to experience. I started out as a young
+            beginner and over a course of a few years I was moving on to
+            performing at various locations such as Lincoln Center and the
+            Vermont State Dance Festival. But the Coleman School of Dance is
+            more than just a space for creativity and movement. It is a family;
+            a platform where endless bonds and connections are made. I enrolled
+            at the Coleman School of Dance after moving to New York in 2013 and
+            met my first friends in New Rochelle at a ballet class after school
+            led by Ms. Jenny. It turned out to be one of the best decisions I
+            have ever made. The past seven years here have truly been wonderful
+            and I look forward to many more adventures.”
+            <br />
+            <br />
+            --Rebecca, Student, Coleman Teen Dance Company
+          </p>
+          <p>
+            “Being at the Coleman School of Dance is a huge part of my life.
+            It’s like my second home. I’ve known everyone here for pretty much
+            my entire life and they’ve become my family."
+            <br />
+            <br />
+            --Peyton Student, Coleman Teen Dance Company
+          </p>
+          <p>
+            “To be in one of Christina’s dances it feels like an author reading
+            their story to a young class. Every movement is clearly depicted,
+            unique and has a reason for being performed."
+            <br />
+            <br />
+            --Sophia Procario-Foley, Alumna
           </p>
         </div>
       </section>
