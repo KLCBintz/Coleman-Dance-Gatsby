@@ -37,16 +37,16 @@ const Menu = props => (
           </Link>
         </li>
         <li>
-          <Link onClick={props.onToggleMenu} to="/tuition">
+          <Link onClick={props.onToggleMenu} to="/summer">
             Summer Dance
           </Link>
         </li>
       </ul>
       <ul className="actions vertical">
         <li>
-          <a href="tel:9145003381" className="button special fit">
-            Call Now
-          </a>
+          <Link onClick={props.onToggleMenu} to="/Contact">
+            Contact
+          </Link>
         </li>
       </ul>
     </div>
