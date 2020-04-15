@@ -22,7 +22,7 @@ const Summer = props => (
     <section id="two" className="spotlights">
       <section>
         <Link to="/generic" className="image">
-          <img src={pic16} alt="" />
+          <img src={pic15} alt="" />
         </Link>
         <div className="content">
           <div className="inner">
@@ -48,7 +48,7 @@ const Summer = props => (
       </section>
       <section>
         <Link to="/generic" className="image">
-          <img src={pic15} alt="" />
+          <img src={pic16} alt="" />
         </Link>
         <div className="content">
           <div className="inner"></div>
