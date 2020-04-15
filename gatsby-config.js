@@ -4,6 +4,8 @@ module.exports = {
     author: '@creativeswirl',
     description:
       'A Dance School in New Rochelle, New York instilling a love of dance and encouraging creativity in the community',
+    url: 'https://www.thecolemandance.com',
+    image: 'images/pic04.jpg',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
