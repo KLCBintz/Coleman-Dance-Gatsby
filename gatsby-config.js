@@ -13,8 +13,8 @@ module.exports = {
         name: 'The Coleman School of Dance',
         short_name: 'Coleman Dance',
         start_url: '/',
-        background_color: '#663399',
-        theme_color: '#663399',
+        background_color: '#119da4',
+        theme_color: '#119da4',
         display: 'standalone',
         icon: 'src/assets/images/website-icon.png', // This path is relative to the root of the site.
       },
