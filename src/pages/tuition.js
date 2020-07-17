@@ -22,47 +22,68 @@ const Tuition = props => (
         <div className="inner">
           <header className="major">
             <h2>
-              2019-2020 Coleman School of Dance Start Date: Monday, September
-              9th
+              2020-2021 Coleman School of Dance Start Date: Monday, September
+              13th
             </h2>
-            <h3>
-              Our annual tuition is paid by quarter OR by semester for a 5
-              percent discount
-            </h3>
-            <h3>
-              If you have two children enrolled, we offer a discount on your
-              second child's tuition.
-            </h3>
+            <h3>Our annual tuition is paid by semester or by quarter</h3>
           </header>
           <p>
-            One class per week = $620 per year (Four payments of $155.00 or two
-            payments of $300.00)
+            <strong>One class per week</strong>
             <br />
-            Two classes per week = $1,110.00 per year (Four payments of $275.00
-            or two payments of $540.00)
+            $620 per year (Two payments of $300 or four payments of $155)
             <br />
-            Cost of Extra Individual Classes = $20.00 per class
+            <strong>Two classes per week</strong>
+            <br />
+            $1,110 per year (Two payments of $540 or four payments of $275)
           </p>
           <p>
-            September 21: First quarter payment due, first semester payment due
+            <strong>Extra Individual Classes</strong>
             <br />
-            November 1: second quarter payment due
-            <br />
-            Feb 1: Third quarter payment due, second semester payment due
-            <br />
-            April 1: Fourth quarter payment due
+            $20 per class
           </p>
           <p>
-            We accept credit card payments through Paypal, a secure online
-            system.
+            <strong>September 21:</strong> First quarter payment due, first
+            semester payment due
             <br />
-            If paying by check, please make checks payable to Christina Coleman.
+            <strong>November 1: </strong>Second quarter payment due
+            <br />
+            <strong>February 1:</strong> Third quarter payment due, second
+            semester payment due
+            <br />
+            <strong>April 1:</strong> Fourth quarter payment due
+          </p>
+          <p>
+            We accept credit card payments through Paypal or Venmo
+            <br />
+            If paying by check, please make checks payable to Christina Coleman
           </p>
           <p>
             <b>Tuition is non-refundable</b>
             <br />
             Students are allowed one make-up class per quarter in case they have
             to miss.
+          </p>
+          <h3>
+            If you have two children enrolled, we offer a discount on your
+            second child's tuition:
+          </h3>
+          <p>
+            <strong>Two children taking once/week:</strong>
+            <br />
+            $1,120 per year (Two payments of $560 or four payments of $295)
+          </p>
+          <p>
+            <strong>Two children taking twice/week:</strong>
+            <br />
+            $1,900 per year (Two payments of $950 or four payments of $490)
+          </p>
+          <p>
+            <strong>
+              Two children enrolled, one taking once/week, the other taking
+              twice/week:
+            </strong>
+            <br />
+            $1,600 per year (Two payments of $800 or four payments of $405)
           </p>
         </div>
       </section>
