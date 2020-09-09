@@ -6,7 +6,7 @@ import { Link } from 'gatsby'
 
 const ScheduleLink = () => (
   <p>
-    <Link to="full-schedule">Learn More</Link>
+    <Link to="/full-schedule">Learn More</Link>
   </p>
 )
 
