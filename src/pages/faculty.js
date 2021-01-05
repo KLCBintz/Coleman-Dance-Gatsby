@@ -7,7 +7,9 @@ import BannerLanding from '../components/BannerLanding'
 import christie from '../assets/images/christie.jpg'
 import jenny from '../assets/images/jenny.jpg'
 import etrita from '../assets/images/etrita.jpg'
-import laura from '../assets/images/laura.jpg'
+import kaya from '../assets/images/kaya.jpg'
+import mandy from '../assets/images/mandy.jpg'
+import melissa from '../assets/images/melissa.jpg'
 import nicole from '../assets/images/nicole.jpg'
 import sophia from '../assets/images/sophia.jpg'
 import susanna from '../assets/images/susanna.jpg'
@@ -102,22 +104,16 @@ const Faculty = props => (
         </section>
         <section>
           <Link to="/generic" className="image">
-            <img src={laura} alt="" />
+            <img src={kaya} alt="" />
           </Link>
           <div className="content">
             <div className="inner">
               <header className="major">
-                <h3>Laura Smock</h3>
+                <h3>Kaya Blumenthal-Rothchild</h3>
                 <h4>Teacher</h4>
               </header>
               <p>
-                <b>Laura Smock</b> is a dancer and choreographer from SUNY
-                Potsdam with a BA in Dance. She has recently started on the
-                track of Physical Therapy. She is very excited to be working
-                with The Coleman School of Dance, and wants to thank her fellow
-                teachers and students for welcoming her for a third year with
-                the school. She’s performed as Velma Kelly in Chicago and
-                participated as a performer in American Dancers Association.
+                <b>Kaya Blumenthal-Rothchild</b> graduated from Connecticut College in May 2020, and was a major in Dance, and minored in Gender, Sexuality and Intersectionality Studies in addition to completing a certificate program in Community Action and Public Policy. During her four years at Connecticut College, she performed in multiple faculty performances and was in guest artist piece’s including works by Cunningham and Kate Weare. Kaya loves to combine all of the different movement forms she has explored into her dance classes and highlights physicality, fluidity, and improvisation within her choreography. She is incredibly excited to join the Coleman School of Dance faculty for her first year and is thankful for the opportunity to further her movement practice through teaching.
               </p>
             </div>
           </div>
@@ -144,6 +140,38 @@ const Faculty = props => (
                 Scarsdale, Fiore Pilates in Mamaroneck and Pilates Symmetry in
                 Stamford, CT. She also belongs to the faculty of Ballet Center
                 in Stamford.
+              </p>
+            </div>
+          </div>
+        </section>
+        <section>
+          <Link to="/generic" className="image">
+            <img src={mandy} alt="" />
+          </Link>
+          <div className="content">
+            <div className="inner">
+              <header className="major">
+                <h3>Mandy Kirschner Salva</h3>
+                <h4>Teacher</h4>
+              </header>
+              <p>
+                <b>Mandy Kirschner Salva</b> was born and raised in Maryland. She started dancing at a young age and graduated from the Baltimore School for the Arts in 1995. She continued on to SUNY Purchase where she graduated cum laude and received a BFA in dance performance. In 2000 she joined the Merce Cunningham Dance Company where she performed and traveled the world for four years. She has worked with Ellen Cornfield and Liz Gerring, and was a member of the Stephen Petronio Company from 2006 through 2010. She is a founding member of Second Story Dance Project in Westchester, NY where she also lives with her husband and 2 children.
+              </p>
+            </div>
+          </div>
+        </section>
+        <section>
+          <Link to="/generic" className="image">
+            <img src={melissa} alt="" />
+          </Link>
+          <div className="content">
+            <div className="inner">
+              <header className="major">
+                <h3>Melissa Gingold</h3>
+                <h4>Teacher</h4>
+              </header>
+              <p>
+                <b>Melissa Gingold</b> grew up in New Rochelle. She began ballet classes at age 11 at the Westchester Theatre of Dance at the JCC in Mid-Westchester, where in 2012 she received the Maria Jones Scholarship Award for excellence and promise in the field of dance. In the PAVE program at New Rochelle High School, she studied and performed many styles including hip-hop, contemporary and modern dance. She received instruction at Central Pennsylvania Youth Ballet’s summer intensive program in 2015. Melissa graduated from Cornell University with a degree in Nutritional Sciences and a dietetics concentration. At Cornell, she performed and choreographed lyrical and contemporary pieces with a talented group of students in Pandora Dance Troupe. Up to 500 audience members attended their shows in large performance halls on campus. Melissa currently works as a registered dietitian, and continues to dance around Westchester and NYC. She is honored and excited to guest-teach at the Coleman School of Dance!
               </p>
             </div>
           </div>
